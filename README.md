@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @GonzaloZiadi
+- ✍🏽 Blogging at [Path To Simple](https://www.pathtosimple.com)
 - 📫 How to reach me ... ziadig@gmail.com
 
 <!---
