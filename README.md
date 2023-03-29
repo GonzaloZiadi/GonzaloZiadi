@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @GonzaloZiadi
 - ✍🏽 Blogging at [Path To Simple](https://www.pathtosimple.com)
+  - Popular posts
+    - 🥕 [Is a Costco membership worth it?](https://www.pathtosimple.com/is-costco-membership-worth-it)
 - 📫 How to reach me ... ziadig@gmail.com
 
 <!---
